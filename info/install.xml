@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<template name="beige25">
+	<title>Beige Template for eSyndiCat</title>	
+	<summary>Beige is clear template with simple graphics. The Beige is optimized to mobile device</summary>	
+	<author>Vladimir</author>	
+	<contributor>http://www.layoutzzz.com</contributor>	
+	<version>1.0</version>	
+	<date>2012-10-25</date>
+	<compatibility>2.4.2</compatibility>
+	<status>active</status>
+	<config configgroup="general" name="esyndicat_block_positions" type="hidden" description="position">
+		mainmenu,copyright,left,right,top,belowcategories,bottom,user1,user2,verybottom,verytop
+	</config>
+	
+</template>
